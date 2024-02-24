@@ -11,7 +11,7 @@ function Footer() {
                     <Link to="/" className="text-decoration-none">
                     <h1 className="mb-4 display-5 font-weight-semi-bold">
                         <span className="text-primary font-weight-bold border border-white px-3 mr-1">
-                            FM 
+                            EZ 
                         </span>
                             Style
                     </h1>

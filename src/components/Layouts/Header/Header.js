@@ -51,7 +51,7 @@ function Header(props) {
               <Link to="/" className="text-decoration-none">
                 <h1 className="m-0 display-5 font-weight-semi-bold">
                   <span className="text-primary font-weight-bold border px-3 mr-1">
-                    FM
+                    EZ
                   </span>
                     Style
                 </h1>
@@ -93,7 +93,7 @@ function Header(props) {
                 href="#navbar-vertical"
                 style={{ height: 65, marginTop: "-1px", padding: "0 30px" }}
               >
-                   <b>172 Le Duan Street, Da Nang City </b>
+                   <b>174 Le Duan Street, Da Nang City </b>
               </div>
             </div>
             <div className="col-lg-9">
@@ -101,7 +101,7 @@ function Header(props) {
                 <Link to="/" className="text-decoration-none d-block d-lg-none">
                   <h1 className="m-0 display-5 font-weight-semi-bold">
                     <span className="text-primary font-weight-bold border px-3 mr-1">
-                      FM 
+                      EZ
                     </span>
                       Style
                   </h1>
